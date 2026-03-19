@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anxietyPotato
 - 👀 I’m interested in cyber security,in general IT,games
-- 🌱 I’m currently learning Web Development (php,laravel..etc.)
+- 🌱 I'm currently building with PHP/Laravel, MySQL, MongoDB and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... cvetica8@gmail.com
 - 😄 Pronouns: she/her
