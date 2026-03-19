@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... cvetica8@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: AnxietyPotato, Senior Trashy Vibe Coder, Mountain Division. 😄✨
 
 <!---
 anxietyPotato/anxietyPotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
